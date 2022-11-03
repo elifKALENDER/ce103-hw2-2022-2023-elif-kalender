@@ -1,3 +1,3 @@
-# CE103 HW-2 template without function body
+# CE103 HW-2 - Elif KALENDER added function bodies
 
-Please check homework guide to complete this task
+
